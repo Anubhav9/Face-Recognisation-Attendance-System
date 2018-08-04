@@ -1,0 +1,10 @@
+STEPS TO USE:
+
+LOGIN ID FOR CURRENT USE IS: navnirman
+Password for Current Use is: fosters
+
+Please Create a new database and change it's name in the source code.
+Capture Image and dont forget to train the data otherwise it wont work.
+Check for Updated List excel file to get current attendace with date and time.
+
+Thank You
